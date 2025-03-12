@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/477533ee-aa73-45e6-bbe4-8e5f23ecf136)
+
 # 🍽️ Zomato Dashboard – Data Analytics & Insights  
 
 ## 📌 Overview  
