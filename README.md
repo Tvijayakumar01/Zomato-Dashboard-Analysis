@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/477533ee-aa73-45e6-bbe4-8e5f23ecf136)
-
 # 🍽️ Zomato Dashboard – Data Analytics & Insights  
+
+![image](https://github.com/user-attachments/assets/477533ee-aa73-45e6-bbe4-8e5f23ecf136)
 
 ## 📌 Overview  
 Zomato is a leading food delivery and restaurant discovery platform. With thousands of restaurants, customer reviews, and ratings, **data-driven insights** are crucial for understanding **food trends, customer preferences, and business performance**.  
